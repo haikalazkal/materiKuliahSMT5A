@@ -22,8 +22,8 @@ export default function App() {
         Nama Lengkap : Haikal Azkal Azkiya{"\n"}
         NIM : 2488010038{"\n"}
         Asal Sekolah : SMAN 6 CIREBON{"\n"}
-        Cita-cita : Gantiin Prabowo{"\n"}
-        Rencana mencapai cita-cita : saya masuk parpol{"\n"}
+        Cita-cita : Kerja di BUMN dan ngantor di SCBD{"\n"}
+        Rencana mencapai cita-cita : Belajar yang giat dan naikin IPK{"\n"}
       </Text>
 
       <Text style={styles.text}>
