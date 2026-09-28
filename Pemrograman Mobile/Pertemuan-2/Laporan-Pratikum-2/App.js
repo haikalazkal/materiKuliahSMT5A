@@ -307,7 +307,7 @@ export default function App() {
 
       Alert.alert(
         '✅ BERHASIL',
-        `Pesan dari ${currentName} telah terkirim!`
+        `Pesan dari ${currentName} telah terkirim!`,
         `TERIMA KASIH!`
       );
     }, 2000);
